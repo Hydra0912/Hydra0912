@@ -1,0 +1,4 @@
+baseURL = 'https://www.cloudboxnetwork.me/'
+languageCode = 'en-us'
+title = 'CloudBoxNetwork'
+theme = 'newsroom'

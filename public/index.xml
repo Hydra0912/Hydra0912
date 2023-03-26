@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CloudBoxNetwork</title>
+    <link>http://localhost:4444/</link>
+    <description>Recent content on CloudBoxNetwork</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Mar 2023 08:07:14 +0000</lastBuildDate><atom:link href="http://localhost:4444/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zphisher Phishing Tool For Beginners</title>
+      <link>http://localhost:4444/post/zphisher/</link>
+      <pubDate>Sun, 26 Mar 2023 08:07:14 +0000</pubDate>
+      
+      <guid>http://localhost:4444/post/zphisher/</guid>
+      <description>Simple Phishing FrameWork For Beginners kali installation: sudo apt update &amp;amp;&amp;amp; apt upgrade
+sudo apt install php openssh wget git
+git clone &amp;ndash;depth=1 https://github.com/htr-tech/zphisher.git
+cd zphisher
+bash zphisher.sh
+Enjoy!!
+Dont Hack You Friends ;) </description>
+    </item>
+    
+    <item>
+      <title>Phoneinfoga Osint Tool For Hackers</title>
+      <link>http://localhost:4444/post/phoneinfoga/</link>
+      <pubDate>Sun, 26 Mar 2023 07:41:39 +0000</pubDate>
+      
+      <guid>http://localhost:4444/post/phoneinfoga/</guid>
+      <description>How Hackers Trace Phone Numbers kali installation: sudo apt update &amp;amp;&amp;amp; apt upgrade
+sudo apt install curl
+bash &amp;lt;( curl -sSL https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/support/scripts/install )
+sudo install ./phoneinfoga /usr/local/bin/phoneinfoga
+phoneinfoga version
+phoneinfoga scan -n +1 555-444-3333
+Use This Tool For Educational Only! </description>
+    </item>
+    
+    <item>
+      <title>Holehe Email Osint Tool For Hackers</title>
+      <link>http://localhost:4444/post/holehe/</link>
+      <pubDate>Sun, 26 Mar 2023 07:09:21 +0000</pubDate>
+      
+      <guid>http://localhost:4444/post/holehe/</guid>
+      <description>How Hackers Trace Email Accounts For Kali: sudo apt install python3 python3-pip python3-virtualenv
+python3 -m virtualenv venv
+source venv/bin/activate
+pip3 install holehe
+holehe example@gmail.com
+Use For Educational Purpose Only! </description>
+    </item>
+    
+  </channel>
+</rss>
